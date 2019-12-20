@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "cropmod:block/mplant_stage3"
+    }
+}
